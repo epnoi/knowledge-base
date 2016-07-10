@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44133205-1dc8-4389-bdb1-3cf0f8165e0a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/epnoi/knowledgebase/KnowledgeBaseApp.java" afterPath="$PROJECT_DIR$/src/main/java/org/epnoi/knowledgebase/KnowledgeBaseApp.java" />
-    </list>
+    <list default="true" id="44133205-1dc8-4389-bdb1-3cf0f8165e0a" name="Default" comment="" />
     <ignored path="knowledgeBase.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,8 +45,8 @@
       <file leaf-file-name="KnowledgeBaseApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/epnoi/knowledgebase/KnowledgeBaseApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="216">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -565,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/epnoi/knowledgebase/KnowledgeBaseApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="216">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
