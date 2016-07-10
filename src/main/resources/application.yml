@@ -1,0 +1,5 @@
+server:
+  contextPath: /knowledgebase
+  port: 8080
+
+
