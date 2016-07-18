@@ -1,0 +1,5 @@
+org/epnoi/knowledgebase/model/Relation.class
+org/epnoi/knowledgebase/KnowledgeBaseApp.class
+org/epnoi/knowledgebase/config/Neo4JConfig.class
+org/epnoi/knowledgebase/service/rest/KnowledgeBaseService.class
+org/epnoi/knowledgebase/model/Concept.class

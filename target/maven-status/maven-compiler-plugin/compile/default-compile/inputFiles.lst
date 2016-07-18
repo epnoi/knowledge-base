@@ -1,2 +1,5 @@
 /opt/epnoi/knowledgeBase/src/main/java/org/epnoi/knowledgebase/service/rest/KnowledgeBaseService.java
 /opt/epnoi/knowledgeBase/src/main/java/org/epnoi/knowledgebase/KnowledgeBaseApp.java
+/opt/epnoi/knowledgeBase/src/main/java/org/epnoi/knowledgebase/model/Concept.java
+/opt/epnoi/knowledgeBase/src/main/java/org/epnoi/knowledgebase/model/Relation.java
+/opt/epnoi/knowledgeBase/src/main/java/org/epnoi/knowledgebase/config/Neo4JConfig.java
